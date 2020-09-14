@@ -1,0 +1,4 @@
+name: Example
+version: ${project.version}
+main: me.ryzeon.redis.Example
+api-version: 1.16

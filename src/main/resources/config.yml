@@ -1,0 +1,6 @@
+REDIS:
+  HOST: ''
+  PORT: 6379
+  AUTHENTICATION:
+    ENABLED: true
+    PASSWORD: ''
